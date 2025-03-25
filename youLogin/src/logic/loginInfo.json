@@ -1,0 +1,23 @@
+{
+    "cg": {
+        "first name": "Cg",
+        "last name": "Chukwuezi",
+        "username": "cg",
+        "password": "cg",
+        "email": "cgchukwuezi9@gmail.com",
+    },
+    "ace": {
+        "first name": "Ace",
+        "last name": "Watson",
+        "username": "ace",
+        "password": "ace",
+        "email": "acewatson100@gmail.com"
+    },
+    "enosh": {
+        "first name": "Enosh",
+        "last name": "Lartey",
+        "username": "enosh",
+        "password": "enosh",
+        "email": "enoshlartey3@gmail.com"
+    }
+}
